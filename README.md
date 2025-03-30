@@ -37,3 +37,12 @@ This project implements an attention-based encoder-decoder model to generate des
 
 ## Dataset
 - Trained on the Indiana University Chest X-ray dataset with 7,477 X-ray images (frontal and lateral projections) and  4,169 patient captions.
+
+
+## Future work
+This file contains the architecture of a machine learning model, which can be fine-tuned and enhanced. To improve the model, I suggest the following:
+
+- **Utilize BERT for embedding layers**: This leverages BERT's pre-trained language understanding capabilities, providing a robust foundation for natural language processing tasks.
+- **Incorporate additional diverse datasets for training**: More varied data can improve the model's generalization and performance by helping it learn a broader range of patterns and reducing overfitting.
+- **Optimize training efficiency with C programming language**: Implementing performance-critical components of the model or training process in C can enhance speed, as C offers faster execution for computationally intensive tasks.
+- **Leverage the Fastai library**: This can streamline model development, training, and experimentation, potentially boosting performance through Fastai’s high-level abstractions and deep learning best practices.
