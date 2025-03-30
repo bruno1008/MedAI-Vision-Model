@@ -37,5 +37,3 @@ This project implements an attention-based encoder-decoder model to generate des
 
 ## Dataset
 - Trained on the Indiana University Chest X-ray dataset with 7,477 X-ray images (frontal and lateral projections) and  4,169 patient captions.
-
-- 
